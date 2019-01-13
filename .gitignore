@@ -79,3 +79,6 @@ image/**
 
 # MacOS
 .DS_Store
+
+# gitkeep
+!.gitkeep
