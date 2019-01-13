@@ -68,8 +68,8 @@ typings/
 # nuxt.js build output
 .nuxt
 
-# vuepress build output
-.vuepress/dist
+# build output
+dist
 
 # Serverless directories
 .serverless
