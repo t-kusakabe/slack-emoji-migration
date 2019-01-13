@@ -71,7 +71,11 @@ typings/
 # build output
 dist
 
+# Deliverables
+image/**
+
 # Serverless directories
 .serverless
 
-
+# MacOS
+.DS_Store
