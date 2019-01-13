@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "strictNullChecks": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "outDir": "dist",
+    "lib": ["dom", "ES2017"],
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react",
+    "moduleResolution": "node"
+  }
+}
