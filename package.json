@@ -1,0 +1,8 @@
+{
+  "name": "slack-emoji-migration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/t-kusakabe/slack-emoji-migration.git",
+  "author": "t-kusakabe <ttmac0704@gmail.com>",
+  "license": "MIT"
+}
