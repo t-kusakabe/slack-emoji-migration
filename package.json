@@ -5,6 +5,9 @@
   "repository": "ssh://git@github.com/t-kusakabe/slack-emoji-migration.git",
   "author": "t-kusakabe <ttmac0704@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
   "devDependencies": {
     "@types/dotenv": "6.1.0",
     "@types/slack-node": "0.1.2",
