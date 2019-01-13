@@ -6,6 +6,13 @@
   "author": "t-kusakabe <ttmac0704@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/dotenv": "6.1.0",
+    "@types/slack-node": "0.1.2",
     "typescript": "3.2.2"
+  },
+  "dependencies": {
+    "dotenv": "6.2.0",
+    "request": "2.88.0",
+    "slack-node": "0.1.8"
   }
 }
